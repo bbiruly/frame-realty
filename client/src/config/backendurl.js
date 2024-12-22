@@ -1,0 +1,1 @@
+export const api = "https://frame-realty.onrender.com/api"
